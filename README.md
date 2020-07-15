@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working in PagSeguro company ...
+- 🌱 I’m currently learning Kotlin and Kubernets
+- 👯 I’m looking to collaborate on cool projects
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about Java and Spring or Soft Programming Skills
+- 📫 How to reach me: fernandogomes_ti@hotmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I'm the fastest runner developer alive
+
 <!--
 **fhgomes/fhgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
