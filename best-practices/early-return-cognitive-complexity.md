@@ -1,4 +1,4 @@
-h1. Conceitos:
+# Conceitos:
 * guard clause
 * early return / avoid else
 * diminuição de carga cognitiva e complexidade cognitiva
@@ -6,7 +6,7 @@ h1. Conceitos:
 	* através da diminuicao dos niveis de encadeamento (niveis de edentacao)
 * facilitação do entendimento através da diminuição da quebra de fluxo de código
 
-h1.  Referencias:
+# Referencias:
 
 //blog de refatoração do martin f, sobre clausulas de guarda e condicoes aninhadas
 https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html
