@@ -14,7 +14,7 @@ internal class Service {
 
 	fun teste2() {
 		OtherService().call()
-			.takeIf { retorno -> retorno == "OK" }?.apply {
+			.takeIf { retorno -> retorno != "OK" }?.apply {
 				println("Executado com sucesso. Com texto longo aqui que vai indo até chegar numa quebra de página " +
 					"porque é muito longo mesmo")
 			} ?: throw RuntimeException("Falha executar. Com texto longo aqui que vai indo até chegar numa quebra de página " +
