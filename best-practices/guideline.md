@@ -55,16 +55,18 @@ ou Usar default do Intelij
 # Comentários no código  
 
 ## Quando não inserir comentários: 
+
 1. Não é necessário colocar comentários em classes ou métodos simples, básicos, ou de configuração de frameworks, exceto para casos que fujam da configuração default e necessite alguma explicação 
 2. Não colocar comentário de @Author e outros gerados automaticamente por algumas IDEs, estes dados já são providos pelo gerenciador de código. 
 3. Não deixar “código comentado”, remover. Se necessário tem o versionador para pesquisar 
-4. Não adicionar comentários redundantes
-4.1. Ex: adicionar o mesmo nome, mas em português
-4.2 Ex: CarService -> /** Serviço que gerencia carros */ 
+4. Não adicionar comentários redundantes  
+4.1. Ex: adicionar o mesmo nome, mas em português  
+4.2 Ex: CarService -> /** Serviço que gerencia carros */   
 5. Não use comentários em classes e métodos que já seguem a convenção da linguagem ou framework 
 5.1. Ex: SessionHTTPInterceptor – /** Um interceptador da sessão http  */ 
 
 ## Quando usar comentários: 
+
 1. Documentar quando for algo específico de negócio 
 2. Cálculos 
 3. Fluxos de código / negócio 
@@ -84,6 +86,7 @@ Inserir comentário quando houver uso/adaptação devido a limitação tecnológ
 10.3. Ex: de forma mais comum um sistema Spring usaria RestTemplate, mas num cenário não usa pois por algum motivo o RestTemplate não atende  
 
 # Clean Code  
+
 1. Utilizar dos princípios do clean code e deixar atributos, variáveis, classes e métodos com nomes significativos 
 2. Não deixe números e caracteres fixos e soltos no código, utilize constantes  
 3. Cria classes de constantes caso não seja um único uso deste valor  
@@ -112,7 +115,8 @@ CONST ID_DEFAULT_BATATA = 567
 15.4. Não é necessário a utilização de VOs dentro de um serviço responsável pela manipulação de uma entidade, basta usar a entidade para tal, porém evitar acoplamento da camada de negócios com a camada de domínio 
 Utilizar camelCase para nomear propriedades de DTOs ao criar JSONs do próprio sistema 
 
-# Nomenclaturas e convenções gerais    
+# Nomenclaturas e convenções gerais   
+
 1. Sem espaço entre um método e o parênteses e o nome do método "(" início de lista de parâmetros;  
 2. Métodos são sempre separados entre si por uma linha em branco 
 3. O nome de variáveis não deve começar com qualquer caractere especial. Os nomes de variáveis devem ser curtos, mas significativo. Para variáveis temporárias os nomes comuns são i, j, k, m, n.  
@@ -270,7 +274,9 @@ Portugues (pt-BR) - English (en-US)
 8. Garantir que no Gradle “pai”, tenha as propriedades sourceCompatibility e targetCompatibility  
 
 # Quality Gate Sonar 
+
 ## Débito Tecnico 
+
 Blocker Issues is greater than 0 (error) 
 Critical Issues is greater than 0 (error)  
 Major Issues is greater than 1 (error) 
@@ -286,12 +292,14 @@ Condition Coverage on New Code is less than 80% (warn) 60.0% (error)
 Skipped Unit Tests is greater than 1 (error) 
 
 ## Leitura e Manutenabilidade
+
 Duplicated Lines (%) is greater than 1,5% (warn) 3% (error)
 Maintainability Rating on New Code is worse than A (error)
 Reliability Rating is worse than A (error)
 Security Rating is worse than A (error) 
 
 # Referencias: 
+
 * https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29 
 * https://www.todaysoftmag.com/article/1120/clean-code-comments-and-formatting 
 * https://blog.usejournal.com/stop-writing-code-comments-28fef5272752 
