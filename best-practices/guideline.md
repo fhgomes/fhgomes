@@ -111,7 +111,7 @@ CONST ID_DEFAULT_BATATA = 567
 15. Uso de DTOs e VOs  
 15.1. Deverá sempre ser utilizado o sufixo DTO para designar que a classe é um objeto que poderá transportar dados para dentro ou fora do sistema. Nesse caso deverá sempre utilizar os mapeamentos json do framework "jackson".  
 15.2. Os DTO deverão estar no modulo/package "share" (ou similar) para serem compartilhados entre camada de entrada e cada de negócios.  
-15.3. Deverá sempre ser utilizado o sufixo VO para designar que a classe é utilizada apenas como transitória internamente. Pode ser para passagem de parâmetros, pode para um Cálculo temporário, pode ser uma tradução temporária entre objetos 
+15.3. Deverá sempre ser utilizado o sufixo VO para designar que a classe é utilizada apenas como transitória internamente. Pode ser para passagem de parâmetros, pode para um Cálculo temporário, pode ser uma tradução temporária entre objetos   
 15.4. Não é necessário a utilização de VOs dentro de um serviço responsável pela manipulação de uma entidade, basta usar a entidade para tal, porém evitar acoplamento da camada de negócios com a camada de domínio 
 Utilizar camelCase para nomear propriedades de DTOs ao criar JSONs do próprio sistema 
 
