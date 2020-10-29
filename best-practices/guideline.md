@@ -98,7 +98,6 @@ CONST ID_DEFAULT_BATATA = 567
  Processar (ID_DEFAULT_BATATA) 
 6. Números como 0, 1, 2, 10, 100 não são necessariamente números mágicos. Muitas vezes vale a pena deixá-los assim, exceto se for algo que pode vir a ser mutável/parametrizável. Sempre depende do contexto 
 7. Outros números notáveis e situações (como 30, 60, 24) depende do contexto (contexto de data/hora) 
-8. Mesmo os itens “2.b” no contexto podem ser mágicos e devem ser colocados em constantes 
 9. Prefira utilizar:
 9.1. StringUtils.isEmpty para verificar strings vazias 
 9.2. Objects.isNull e Objects.nonNull para verificar nulos.  
