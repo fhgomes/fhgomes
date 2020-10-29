@@ -58,8 +58,8 @@ ou Usar default do Intelij
 1. Não é necessário colocar comentários em classes ou métodos simples, básicos, ou de configuração de frameworks, exceto para casos que fujam da configuração default e necessite alguma explicação 
 2. Não colocar comentário de @Author e outros gerados automaticamente por algumas IDEs, estes dados já são providos pelo gerenciador de código. 
 3. Não deixar “código comentado”, remover. Se necessário tem o versionador para pesquisar 
-4. Não adicionar comentários redundantes 
-4.1. Ex: adicionar o mesmo nome, mas em português 
+4. Não adicionar comentários redundantes
+4.1. Ex: adicionar o mesmo nome, mas em português
 4.2 Ex: CarService -> /** Serviço que gerencia carros */ 
 5. Não use comentários em classes e métodos que já seguem a convenção da linguagem ou framework 
 5.1. Ex: SessionHTTPInterceptor – /** Um interceptador da sessão http  */ 
