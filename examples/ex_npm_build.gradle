@@ -1,0 +1,108 @@
+plugins {
+    //https://github.com/node-gradle/gradle-node-plugin/blob/master/docs/usage.md
+    id "com.github.node-gradle.node" version "2.2.4"
+}
+println 'Available task npmInstall'
+
+task npmCIRegistry(type: NpmTask) {
+    println 'Available task npmCIRegistry'
+    args = ['ci', '--registry http://nexus.fhgomes.intranet/repository/npm-all']
+}
+
+task justBuildDevNoWatch(type: Task) {
+    println 'Available task justBuildDevNoWatch'
+    dependsOn 'buildClientDevNoWatch'
+    dependsOn 'buildServerDevNoWatch'
+}
+
+task runLint(type: NpmTask) {
+    println 'Available task runLint'
+    args = ['run', 'lint']
+}
+
+task justBuildClientDev(type: NpmTask) {
+    println 'Available task justBuildClientDev - build with watch'
+    args = ['run', 'build:client:watch']
+}
+
+task justBuildServerDev(type: NpmTask) {
+    println 'Available task justBuildServerDev - build with watch'
+    args = ['run', 'build:server:watch']
+}
+
+task buildRunDev(type: Task) {
+    println 'Available task buildRunDev'
+    dependsOn 'justBuildDevNoWatch'
+    dependsOn 'justRunDev'
+}
+
+task justRunDev(type: NpmTask) {
+    println 'Available task justRunDev'
+    args = ['run', 'server:watch']
+}
+
+task buildClientDevNoWatch(type: NpmTask) {
+    println 'Available task buildClientDevNoWatch'
+    args = ['run', 'build:client:dev']
+}
+
+task buildServerDevNoWatch(type: NpmTask) {
+    println 'Available task buildServerDevNoWatch'
+    args = ['run', 'build:server:dev']
+}
+
+task runTest(type: NpmTask) {
+    println 'Available task runTest'
+    args = ['run', 'test']
+}
+
+task runTestUpdateSnap(type: NpmTask) {
+    println 'Available task runTestUpdateSnap'
+    args = ['run', 'test', '--', '-u']
+}
+
+//===== QA =======
+task justBuildClientQA(type: NpmTask) {
+    println 'Available task justBuildClientQA'
+    args = ['run', 'build:client:qa']
+}
+
+task justBuildServerQA(type: NpmTask) {
+    println 'Available task justBuildServerQA'
+    args = ['run', 'build:server:qa']
+}
+
+//===== PROD =======
+task justBuildClientProd(type: NpmTask) {
+    println 'Available task justBuildClientProd'
+    args = ['run', 'build:client:prod']
+}
+
+task justBuildServerProd(type: NpmTask) {
+    println 'Available task justBuildServerProd'
+    args = ['run', 'build:server:prod']
+}
+
+node {
+    // Version of node to use.
+    version = "10.22.1"
+
+    // Version of npm to use.
+    npmVersion = "6.14.8"
+
+    // Base URL for fetching node distributions (change if you have a mirror).
+    distBaseUrl = 'https://nodejs.org/dist'
+
+    // If true, it will download node using above parameters.
+    // If false, it will try to use globally installed node.
+    download = true
+
+    // Set the work directory for unpacking node
+    workDir = file("${project.buildDir}/nodejs")
+
+    // Set the work directory for NPM
+    npmWorkDir = file("${project.buildDir}/npm")
+
+    // Set the work directory where node_modules should be located
+    nodeModulesDir = file("${project.projectDir}")
+}
