@@ -1,0 +1,21 @@
+FROM registry.intranet/base/centos:node-10
+
+MAINTAINER l-scrum-phoenix
+LABEL proj="proj"
+
+ENV TZ America/Sao_Paulo
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+
+RUN mkdir -p /app
+WORKDIR /app
+
+COPY . /app
+
+RUN npm config ls
+ENV NODE_ENV=qa
+
+EXPOSE 80
+
+CMD ["npm", "run", "build:client:qa"]
+CMD ["npm", "run", "build:server:qa"]
+CMD ["npm", "run", "server"]
