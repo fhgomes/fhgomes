@@ -10,8 +10,8 @@
 gitAPI = new GithubAPI(this)
 
 gradle = "./gradlew"
-slackChannel = "#phoenix_ci"
-team = "Phoenix"
+slackChannel = "#fernando_ci"
+team = "FernandoTeam"
 
 lastCommiterName = ""
 lastCommiterMsg = ""
