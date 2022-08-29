@@ -8,6 +8,7 @@
 - 📫 How to reach me: fernandogomes_ti@hotmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I'm the fastest runner developer alive
+- My Values: Autonomy, freedom, security, independency, value delivery, purpose, transparency, Autonomy, confidence, responsability, Ethics, Respect
 
 <!--
 **fhgomes/fhgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
