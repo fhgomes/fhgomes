@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔗 https://www.linkedin.com/in/fhgomes
 - 🔭 I’m currently working at [INVITE ME] company ...
 - 🌱 I’m currently wanting to learn about Go and Python
 - 👯 I’m looking to collaborate on cool projects
