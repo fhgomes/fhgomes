@@ -9,51 +9,52 @@ In parts it also can be used to Front or FullStack interview.
 
 ---------------------------------------------------------------------------------------
 
-Good mrning/afternoon, first of all we appreciate your time and disponibility to be here with us.
+Good morning/afternoon, first of all we appreciate your time and disponibility to be here with us.
 If you can please talk a little bit about yourself and also about your background, very briefly focusing on most recent experiences.
 
-- já trabalhou/estudou git
--- usa/conhece algum modelo de flow?
+- Have already worked with or studied GIT?
+  - Have used or knows some sort of flow?
 
-- já trabalhou/estudou maven/gradle
-- tem conhecimentos sobre CI/CD? Jenkins / Outros
+- Have already worked with or studied maven/gradle
+- Have already worked with or studied CI/CD? 
+  - Knows Jenkins / GitLab / CircleCI / Others?
 
-- já trabalhou/estudou java 8/9? java 10?  
-- já trabalhou/estudou spring/boot? - versão 5x do spring e 2x do boot ?
+- Have already worked with or studied java 8/9? java 10?  
+- Have already worked with or studied spring/boot? - versão 5x do spring e 2x do boot ?
 
-- já trabalhou/estudou NodeJS?
+- Have already worked with or studiedu NodeJS?
 
-- já trabalhou/estudou boas praticas de codigo
+- Have already worked with or studied boas praticas de codigo
   - ver se fala sobre clean code e solid
   - o que é cleancode pra voce? cite exemplos de boas praticas de codigo
-- já trabalhou/estudou quality gate
+- Have already worked with or studied quality gate
   - ja usou o que acha de guidelines de dev
 
-- já trabalhou/estudou DDD 
-- já trabalhou/estudou microserviços, arquitetura
+- Have already worked with or studied DDD 
+- Have already worked with or studied microserviços, arquitetura
   - defina em 5 palavras arquitetura de microserviços
 
-- já trabalhou/estudou docker
-- já trabalhou/estudou kubernetes ou outros orquestradores
+- Have already worked with or studied docker
+- Have already worked with or studied kubernetes ou outros orquestradores
 
-- já trabalhou/estudou quais BD 
+- Have already worked with or studied quais BD 
   - ORACLE, POSTGRE,
-- já trabalhou/estudou Flyway, Liquibase
+- Have already worked with or studied Flyway, Liquibase
 
-- já trabalhou/estudou nosql
-- já trabalhou/estudou mongo, cassandra 
-- já trabalhou/estudou redis
+- Have already worked with or studied nosql
+- Have already worked with or studied mongo, cassandra 
+- Have already worked with or studied redis
 
-- já trabalhou/estudou testes unitarios? 
+- Have already worked with or studied testes unitarios? 
   - junit 5 ?
-- trabalhou, conhece testes integrados?
-- já trabalhou/estudou TDD 
+- Have already worked with or studied testes integrados?
+- Have already worked with or studied TDD 
 
 Front
-- já trabalhou/estudou JS?
+- Have already worked with or studied JS?
 
-- já trabalhou/estudou CSS?
-- já trabalhou/estudou React / Angular?
+- Have already worked with or studied CSS?
+- Have already worked with or studied React / Angular?
 
 
 tecnicamente dos projetos que já trabalhou:
