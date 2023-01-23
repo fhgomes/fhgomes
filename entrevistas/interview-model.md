@@ -19,20 +19,22 @@ If you can please talk a little bit about yourself and also about your backgroun
 - Have already worked with or studied CI/CD? 
   - Knows Jenkins / GitLab / CircleCI / Others?
 
-- Have already worked with or studied java 8/9? java 10?  
-- Have already worked with or studied spring/boot? - versão 5x do spring e 2x do boot ?
+- Have already worked with or studied java 9+?
+  - java 17 / java 19?  
+- Have already worked with or studied spring/boot? 
+  - Version 5x or 6x? Spring boot 2x or 3x
 
 - Have already worked with or studiedu NodeJS?
 
 - Have already worked with or studied best/good code practices?
-  - Are you able to define clean code and SOLID? se fala sobre clean code e solid
+  - Are you able to define clean code and SOLID? 
   - What this means to you, could you give us some examples?
 - Have already worked with or studied quality gate
   - what do you think/have you ever used dev code guidelines?
 
 - Have already worked with or studied DDD 
-- Have already worked with or studied microserviços, arquitetura
-  - define in 5 words the micro services architecture
+- Have already worked with or studied micro services architecture?
+  - define in 5 words the micro services architecture?
 
 - Have already worked with or studied containers?
   - Docker?
@@ -43,8 +45,10 @@ If you can please talk a little bit about yourself and also about your backgroun
   - knows about Flyway, Liquibase
 
 - Have already worked with or studied nosql
-- Have already worked with or studied mongo, cassandra 
-- Have already worked with or studied redis
+  - mongo, cassandra 
+  - redis
+- What is cache?
+  -  when is the best cases to use or not use?
 
 - Have already worked with or studied automated tests
   - unit tests  ? 
