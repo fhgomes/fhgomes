@@ -40,6 +40,11 @@ If you can please talk a little bit about yourself and also about your backgroun
   - Docker?
   - kubernetes or other orquestrators?
 
+- Wich tools have you used to achieve observability?
+- What do you know about tracing and distributed logging?
+- Have you ever worked with distributed transactions?
+  - Witch framework or tool has used to implement it?  
+
 - Have already worked with or studied with databases? 
   - Witch ones? ORACLE, POSTGRE,
   - knows about Flyway, Liquibase
