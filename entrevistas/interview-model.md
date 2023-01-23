@@ -21,6 +21,10 @@ If you can please talk a little bit about yourself and also about your backgroun
 
 - Have already worked with or studied java 9+?
   - java 17 / java 19?  
+  - What you can talk about lambdas?
+  - What is a difference from map to flatMap
+  - Other advanced java questions can be asked
+
 - Have already worked with or studied spring/boot? 
   - Version 5x or 6x? Spring boot 2x or 3x
 
