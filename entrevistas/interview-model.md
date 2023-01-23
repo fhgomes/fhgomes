@@ -4,11 +4,12 @@ This model is destinated to be a part of validation of the tech skills of the ca
 Generally a HR person is present to ask the philosofy questions, work day, contract and everything.
 Its common to have separated meeting to talk about other stuff, and just focus now in the tech subjects.
 
-Esta entrevista tecnica está mais voltada para baclend Java e talvez encaixe com Node.
-Mas também engloba um pouco de front e fullstack.
+This steps are more focused on Backend using Java but also can be used in a Node Env.
+In parts it also can be used to Front or FullStack interview.
 
-Bom dia/boa tarde, primeiramente agradecemos pelo seu tempo e disponibilidade para o bate papo.
-Se puder falar um pouco de vc, da sua historia e uma breve descrição, focando nos trabalhos mais recentes.
+====================================================================================================================
+Good mrning/afternoon, first of all we appreciate your time and disponibility to be here with us.
+If you can please talk a little bit about yourself and also about your background, very briefly focusing on most recent experiences.
 
 - já trabalhou/estudou git
 -- usa/conhece algum modelo de flow?
