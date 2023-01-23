@@ -28,31 +28,32 @@ If you can please talk a little bit about yourself and also about your backgroun
   - ver se fala sobre clean code e solid
   - o que é cleancode pra voce? cite exemplos de boas praticas de codigo
 - Have already worked with or studied quality gate
-  - ja usou o que acha de guidelines de dev
+  - what do you think/have you ever used dev code guidelines?
 
 - Have already worked with or studied DDD 
 - Have already worked with or studied microserviços, arquitetura
-  - defina em 5 palavras arquitetura de microserviços
+  - define in 5 words the micro services architecture
 
-- Have already worked with or studied docker
-- Have already worked with or studied kubernetes ou outros orquestradores
+- Have already worked with or studied containers?
+  - Docker?
+  - kubernetes or other orquestrators?
 
-- Have already worked with or studied quais BD 
-  - ORACLE, POSTGRE,
-- Have already worked with or studied Flyway, Liquibase
+- Have already worked with or studied with databases? 
+  - Witch ones? ORACLE, POSTGRE,
+  - knows about Flyway, Liquibase
 
 - Have already worked with or studied nosql
 - Have already worked with or studied mongo, cassandra 
 - Have already worked with or studied redis
 
-- Have already worked with or studied testes unitarios? 
+- Have already worked with or studied automated tests
+  - unit tests  ? 
   - junit 5 ?
-- Have already worked with or studied testes integrados?
-- Have already worked with or studied TDD 
+  - integration tests? end to end?
+  - TDD approach? 
 
-Front
+Front End
 - Have already worked with or studied JS?
-
 - Have already worked with or studied CSS?
 - Have already worked with or studied React / Angular?
 
