@@ -24,9 +24,9 @@ If you can please talk a little bit about yourself and also about your backgroun
 
 - Have already worked with or studiedu NodeJS?
 
-- Have already worked with or studied boas praticas de codigo
-  - ver se fala sobre clean code e solid
-  - o que é cleancode pra voce? cite exemplos de boas praticas de codigo
+- Have already worked with or studied best/good code practices?
+  - Are you able to define clean code and SOLID? se fala sobre clean code e solid
+  - What this means to you, could you give us some examples?
 - Have already worked with or studied quality gate
   - what do you think/have you ever used dev code guidelines?
 
