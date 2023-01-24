@@ -1,4 +1,4 @@
-#. About 
+# About 
 
 This is a technical interview template created by Fernando Gomes <tech.fernando.gomes@gmail.com>
 
@@ -17,25 +17,25 @@ Suggested time:
 
 ---------------------------------------------------------------------------------------
 
-##. Greetings 
+## Greetings 
 
 Good morning/afternoon, first of all thank you for your time and availability to be here with us.
 Add some icebreaker, talk about cool stuff, maybe about the location or some random fun facts
 
-##. About the schedule
+## About the schedule
 
 Explain how it will be conducted
 How the time will be divided
 When the candidate will be able to ask questions
 If there is some code challenge
 
-##. About candidate
+## About candidate
 
 If you can please talk a little bit about yourself and also about your background, very briefly focusing on most recent experiences.
 Preferable, take a look into the candidate resume or linkedin profile some time before the interview. 
 Prepare some specific questions, pay attention when the candidate talk about background and try to make a correlation with the resume. 
 
-##. Some possible direct questions to ask
+## Some possible direct questions to ask
 
 I always prefer to choose the questions and order based on and linked to the candidate experience and history that was told some minutes before.
 Also consider the preview analyzed level or applied level of the candidate
@@ -98,7 +98,7 @@ Also consider the preview analyzed level or applied level of the candidate
   - Have you ever worked or studied CSS?
   - Have you ever worked or studied React/Angular?
 
-##. Open questions 
+## Open questions 
 
 About the projects and experience, with a technical focus:
 - How was your experience int the last teams, did you lead the technical decisions or did you follow the decisions of the TechLead/Archictect?
@@ -114,6 +114,6 @@ About the projects and experience, with a technical focus:
   - you aree the owner, you have time and money  
   - architecture, technologies, databases, approaches 
 
-##. Version of this guide
+## Version of this guide
 
 2023.01_0005
