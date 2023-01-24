@@ -1,4 +1,4 @@
-# About 
+# About
 
 This is a technical interview template created by Fernando Gomes.
 
@@ -11,10 +11,11 @@ This is a technical interview template created by Fernando Gomes.
 
 This template is intended to be part of validating the candidate's technical skills, but perhaps it could also touch on some soft skills.
 Usually an HR person is present to ask the philosophical questions, working processes, contract and everything.
-Its common to have separated meeting to talk about other things, and just focus now on just the tech stuff.
+It´s common to have separated meeting to talk about other things, and just focus now on just the tech stuff.
 
 These steps are more focused on Backend using Java and micro services but also can be used in a Kotlin, NodeJS and other similar tech and approachs.
-In parts it can also be used for Front or FullStack interviews.
+
+In parts, it can also be used for Front or FullStack interviews.
 
 Suggested time:
 - For Junior: 30-60min
@@ -24,9 +25,9 @@ Suggested time:
 
 ---------------------------------------------------------------------------------------
 
-## Greetings 
+## Greetings
 
-Good morning/afternoon; 
+Good morning/afternoon;
 
 First of all, thank you for your time and availability to be here with us.
 
@@ -57,64 +58,64 @@ I always prefer to choose the questions and order based on and linked to the can
 Also consider the preview analyzed level or applied level of the candidate
 
 - Have you ever worked with or studied GIT?
-  - Have you used or know any kind of flow?
+  - Have you used or know any kind of flow?
 - Have you ever worked with or studied maven/gradle
-- Have you ever worked with or studied CI/CD? 
-  - Knows Jenkins / GitLab / CircleCI / Others?
+- Have you ever worked with or studied CI/CD?
+  - Knows Jenkins / GitLab / CircleCI / Others?
 
 - Have you ever worked with or studied Java 9+?
-  - Java 17 / java 19?  
-  - What you can say about lambdas?
-  - What is a difference from map to flatMap
-  - Other advanced Java questions can be asked
+  - Java 17 / java 19?
+  - What you can say about lambdas?
+  - What is a difference from map to flatMap
+  - Other advanced Java questions can be asked
 
-- Have you ever worked with or studied spring/boot? 
-  - Version 5x or 6x? Spring boot 2x or 3x
+- Have you ever worked with or studied spring/boot?
+  - Version 5x or 6x? Spring boot 2x or 3x
 
-- Have you ever worked with or studiedu NodeJS?
+- Have you ever worked with or studied NodeJS?
 
 - Have you ever worked with or studied best/good code practices?
-  - Are you able to define Clean Code and SOLID? 
-  - What this means to you, could you give us some examples?
+  - Are you able to define Clean Code and SOLID?
+  - What this means to you, could you give us some examples?
 - Name something that you tend to pay attention to during the Code Review
-  - What are the last things you pointed out in the last reviews you did? 
-  - What about the questions someone else asked about your code?
+  - What are the last things you pointed out in the last reviews you did?
+  - What about the questions someone else asked about your code?
 - Have you ever worked with or studied quality gate
-  - what do you think/have you ever used dev code guidelines?
-- Have you ever worked with or studied DDD 
+  - what do you think/have you ever used dev code guidelines?
+- Have you ever worked with or studied DDD
 
 - Have you ever worked with or studied micro services architecture?
-  - define in 5 words the micro services architecture?
-  - Differences between micro, monolithic, modular monolith
+  - define in 5 words the micro services architecture?
+  - Differences between micro, monolithic, modular monolith
 - Have you ever worked with or studied containers?
-  - Docker?
-  - Kubernetes or other orchestrators?
+  - Docker?
+  - Kubernetes or other orchestrators?
 - What tools did you use to achieve observability?
 - What do you know about tracing and distributed logging?
 - Have you ever worked with distributed transactions?
-  - Wich framework or tool has used to implement it?  
+  - Which framework or tool has used to implement it?
 
 - Have already worked with or studied databases?
-  - Wich ones? Oracle, PostgreSQL, others
-  - Knows about Flyway or Liquibase
+  - Which ones? Oracle, PostgreSQL, others
+  - Knows about Flyway or Liquibase
 - Have already worked with or studied nosql
-  - MongoDB, cassandra 
-  - Redis
+  - MongoDB, cassandra
+  - Redis
 - What is caching?
-  - When is the best case to use or not to use?
+  - When is the best case to use or not to use?
 
 - Have already worked with or studied automated tests
-  - Unit tests  ? 
-  - Junit 5 ?
-  - Integration tests? end to end?
-  - TDD approach? 
+  - Unit tests?
+  - Junit 5 ?
+  - Integration tests? end to end?
+  - TDD approach?
 
 - Front End
-  - Have you ever worked or studied JS?
-  - Have you ever worked or studied CSS?
-  - Have you ever worked or studied React/Angular?
+  - Have you ever worked or studied JS?
+  - Have you ever worked or studied CSS?
+  - Have you ever worked or studied React/Angular?
 
-## Open questions 
+## Open questions
 
 About the projects and experience, with a technical focus:
 - How was your experience int the last teams, did you lead the technical decisions or did you follow the decisions of the TechLead/Archictect?
@@ -123,12 +124,12 @@ About the projects and experience, with a technical focus:
 - What was the most exciting code or achievement in your career?
 - What was most challenging in your career?
 - Say something that made you ashamed or less proud?
-- Say something that you would like to do but you couldn't for any reason?
-  - Some limitations, restriction, tecnology, enviroment
-- What are you looking for recently in terms of new knowledge? Books? Courses?  
+- Say something that you would like to do, but you couldn't for any reason?
+  - Some limitations, restriction, tecnology, enviroment
+- What are you looking for recently in terms of new knowledge? Books? Courses?
 - In your opinion, how could you build the ideal/perfect project?
-  - You are the owner, you have time and money  
-  - architecture, technologies, databases, approaches 
+  - You are the owner, you have time and money 
+  - architecture, technologies, databases, approaches
 
 ## Version and contribution
 
