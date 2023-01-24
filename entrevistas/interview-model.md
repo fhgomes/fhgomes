@@ -1,82 +1,113 @@
-This is a model of tech interviews created by Fernando Gomes <tech.fernando.gomes@gmail.com>
+h1. About 
 
-This model is destinated to be a part of validation of the tech skills of the candidate, but maybe can touch some soft skill as well.
-Generally a HR person is present to ask the philosofy questions, work day, contract and everything.
-Its common to have separated meeting to talk about other stuff, and just focus now in the tech subjects.
+This is a technical interview template created by Fernando Gomes <tech.fernando.gomes@gmail.com>
 
-This steps are more focused on Backend using Java but also can be used in a Node Env.
-In parts it also can be used to Front or FullStack interview.
+This template is intended to be part of validating the candidate's technical skills, but perhaps could also touch on some soft skills.
+Usually an HR person is present to ask the philosophical questions, working processes, contract and everything.
+Its common to have separated meeting to talk about other things, and just focus now on just the tech stuff.
+
+These steps are more focused on Backend using Java and micro services but also can be used in a Kotlin, NodeJS and other similar tech and approachs.
+In parts it can also be used for Front or FullStack interviews.
+
+Suggested time:
+- For Junior: 30-60min
+- For Mid level: 45-60min
+- For Seniors: 60-90min
+- For Specialist/Architect/Lead: 90-120min
 
 ---------------------------------------------------------------------------------------
 
-Good morning/afternoon, first of all we appreciate your time and disponibility to be here with us.
+h2. Greetings 
+
+Good morning/afternoon, first of all thank you for your time and availability to be here with us.
+Add some icebreaker, talk about cool stuff, maybe about the location or some random fun facts
+
+h2. About the schedule
+
+Explain how it will be conducted
+How the time will be divided
+When the candidate will be able to ask questions
+If there is some code challenge
+
+h2. About candidate
+
 If you can please talk a little bit about yourself and also about your background, very briefly focusing on most recent experiences.
+Preferable, take a look into the candidate resume or linkedin profile some time before the interview. 
+Prepare some specific questions, pay attention when the candidate talk about background and try to make a correlation with the resume. 
 
-- Have already worked with or studied GIT?
-  - Have used or knows some sort of flow?
+h3. Some possible direct questions to ask
 
-- Have already worked with or studied maven/gradle
-- Have already worked with or studied CI/CD? 
+I always prefer to choose the questions and order based on and linked to the candidate experience and history that was told some minutes before.
+Also consider the preview analyzed level or applied level of the candidate
+
+- Have you ever worked with or studied GIT?
+  - Have you used or know any kind of flow?
+- Have you ever worked with or studied maven/gradle
+- Have you ever worked with or studied CI/CD? 
   - Knows Jenkins / GitLab / CircleCI / Others?
 
-- Have already worked with or studied java 9+?
-  - java 17 / java 19?  
-  - What you can talk about lambdas?
+- Have you ever worked with or studied java 9+?
+  - Java 17 / java 19?  
+  - What you can say about lambdas?
   - What is a difference from map to flatMap
   - Other advanced java questions can be asked
 
-- Have already worked with or studied spring/boot? 
+- Have you ever worked with or studied spring/boot? 
   - Version 5x or 6x? Spring boot 2x or 3x
 
-- Have already worked with or studiedu NodeJS?
+- Have you ever worked with or studiedu NodeJS?
 
-- Have already worked with or studied best/good code practices?
-  - Are you able to define clean code and SOLID? 
+- Have you ever worked with or studied best/good code practices?
+  - Are you able to define Clean Code and SOLID? 
   - What this means to you, could you give us some examples?
-- Have already worked with or studied quality gate
+- Have you ever worked with or studied quality gate
   - what do you think/have you ever used dev code guidelines?
+- Have you ever worked with or studied DDD 
 
-- Have already worked with or studied DDD 
-- Have already worked with or studied micro services architecture?
+- Have you ever worked with or studied micro services architecture?
   - define in 5 words the micro services architecture?
-
-- Have already worked with or studied containers?
+  - Differences between micro, monolithic, modular monolith
+- Have you ever worked with or studied containers?
   - Docker?
   - kubernetes or other orquestrators?
-
-- Wich tools have you used to achieve observability?
+- What tools did you used to achieve observability?
 - What do you know about tracing and distributed logging?
 - Have you ever worked with distributed transactions?
-  - Witch framework or tool has used to implement it?  
+  - Wich framework or tool has used to implement it?  
 
 - Have already worked with or studied with databases? 
-  - Witch ones? ORACLE, POSTGRE,
-  - knows about Flyway, Liquibase
-
+  - Wich ones? ORACLE, POSTGRE, others
+  - Knows about Flyway or Liquibase
 - Have already worked with or studied nosql
-  - mongo, cassandra 
-  - redis
-- What is cache?
-  -  when is the best cases to use or not use?
+  - MongoDB, cassandra 
+  - Redis
+- What is caccachinghe?
+  - When is the best case to use or not to use?
 
 - Have already worked with or studied automated tests
-  - unit tests  ? 
-  - junit 5 ?
-  - integration tests? end to end?
+  - Unit tests  ? 
+  - Junit 5 ?
+  - Integration tests? end to end?
   - TDD approach? 
 
-Front End
-- Have already worked with or studied JS?
-- Have already worked with or studied CSS?
-- Have already worked with or studied React / Angular?
+- Front End
+  - Have you ever worked or studied JS?
+  - Have you ever worked or studied CSS?
+  - Have you ever worked or studied React/Angular?
 
+h2. Open questions 
 
-tecnicamente dos projetos que já trabalhou:
-- coisa mais massa em dev?
-- coisa mais desafiadora na carreira?
-- coisa mais mmenos orgulhosa em dev?
-- o que queria ter feito que n fez?
-  - por alguma limitação, restrição, tecnologia
-- o que tem buscado curso e etc? 
-- como criaria um projeto ideal ?
-  - arquitetura, tecnologias, bd, etc
+About the projects and experience, with a technical focus:
+- What was the most exciting development thing in your career?
+- What was most challenging in your career?
+- Say something that made you ashamed or less proud?
+- Say something that you would like to do but you couldn't for any reason?
+  - some limitation, restriction, tecnology, enviroment
+- What are you looking for recently in terms of new knowledge? Books? Courses?  
+- In your opinion, how could you build the ideal/perfect project?
+  - you aree the owner, you have time and money  
+  - architecture, technologies, databases, approaches 
+
+h2. Version of this guide
+
+2023.01_0005
