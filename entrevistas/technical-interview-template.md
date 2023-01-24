@@ -81,11 +81,11 @@ Also consider the preview analyzed level or applied level of the candidate
   - What are the last things you pointed out in the last reviews you did?
   - What about the questions someone else asked about your code?
 - Have you ever worked with or studied quality gate
-  - what do you think/have you ever used dev code guidelines?
+  - What do you think/have you ever used dev code guidelines?
 - Have you ever worked with or studied DDD
 
 - Have you ever worked with or studied micro services architecture?
-  - define in 5 words the micro services architecture?
+  - Define in 5 words the micro services architecture?
   - Differences between micro, monolithic, modular monolith
 - Have you ever worked with or studied containers?
   - Docker?
@@ -129,7 +129,7 @@ About the projects and experience, with a technical focus:
 - What are you looking for recently in terms of new knowledge? Books? Courses?
 - In your opinion, how could you build the ideal/perfect project?
   - You are the owner, you have time and money 
-  - architecture, technologies, databases, approaches
+  - Architecture, technologies, databases, approaches
 
 ## Version and contribution
 
