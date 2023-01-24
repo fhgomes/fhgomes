@@ -26,25 +26,34 @@ Suggested time:
 
 ## Greetings 
 
-Good morning/afternoon; First of all, thank you for your time and availability to be here with us.
+Good morning/afternoon; 
+
+First of all, thank you for your time and availability to be here with us.
+
 Add some icebreaker, talk about cool stuff, maybe about the location, or some random fun facts.
 
 ## About the schedule
 
 Explain how it will be conducted;
+
 How the time will be divided;
+
 When the candidate will be able to ask questions;
-If there is some code challenge
+
+If there is some code challenge;
 
 ## About the candidate
 
 If you can please talk a little bit about yourself and your background, very briefly focusing on your most recent experiences.
+
 Preferably, take a look at the candidate's resume or LinkedIn profile some time before the interview.
+
 Prepare some specific questions, pay attention when the candidate talks about their background, and try to make a correlation with the resume.
 
 ## Some possible direct questions to ask
 
 I always prefer to choose the questions and order based on and linked to the candidate experience and history that was told some minutes before.
+
 Also consider the preview analyzed level or applied level of the candidate
 
 - Have you ever worked with or studied GIT?
