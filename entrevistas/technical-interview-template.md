@@ -55,7 +55,9 @@ Prepare some specific questions, pay attention when the candidate talks about th
 
 I always prefer to choose the questions and order based on and linked to the candidate experience and history that was told some minutes before.
 
-Also consider the preview analyzed level or applied level of the candidate
+Also consider the preview analyzed level or applied level of the candidate.
+
+I really believe it's better to have a fluid conversation and perhaps touch on some of these questions through fluid conversation rather than just following an inquiry and hoping for the best and most accurate theoretical answers.
 
 - Have you ever worked with or studied GIT?
   - Have you used or know any kind of flow?
