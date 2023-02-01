@@ -23,6 +23,10 @@ Suggested time:
 - For Seniors: 60-90min
 - For Specialist/Architect/Lead: 90-120min
 
+Tips:
+- Bring the team to the process. Discuss with other members what you should ask and validate.
+- Do it in Pairs, it can be very Helpful to analyze the candidate and also to have more person in the interview meeting. It can help the candidate to feel confortable. Just take care to not ask to many questions (double) and be aligned.
+
 ---------------------------------------------------------------------------------------
 
 ## Greetings
