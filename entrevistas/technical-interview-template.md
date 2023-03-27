@@ -71,12 +71,16 @@ I really believe it's better to have a fluid conversation and perhaps touch on s
 
 - Have you ever worked with or studied Java 9+?
   - Java 17 / java 19?
+   - Are you able to say 3 recente features of these versions?  
   - What you can say about lambdas?
   - What is a difference from map to flatMap
   - Other advanced Java questions can be asked
 
 - Have you ever worked with or studied spring/boot?
   - Version 5x or 6x? Spring boot 2x or 3x
+  - Are you able to define Spring beans lifecycle?
+  - Are you able to explain a difference between @Component, @Service and @Repository
+  - What is a usage of @Autowired, is it recommended?
 
 - Have you ever worked with or studied NodeJS?
 
@@ -88,11 +92,12 @@ I really believe it's better to have a fluid conversation and perhaps touch on s
   - What about the questions someone else asked about your code?
 - Have you ever worked with or studied quality gate
   - What do you think/have you ever used dev code guidelines?
-- Have you ever worked with or studied DDD
+- Have you ever worked with or studied DDD?
 
 - Have you ever worked with or studied micro services architecture?
   - Define in 5 words the micro services architecture?
   - Differences between micro, monolithic, modular monolith
+ 
 - Have you ever worked with or studied containers?
   - Docker?
   - Kubernetes or other orchestrators?
@@ -103,10 +108,12 @@ I really believe it's better to have a fluid conversation and perhaps touch on s
 
 - Have already worked with or studied databases?
   - Which ones? Oracle, PostgreSQL, others
-  - Knows about Flyway or Liquibase
+  - Knows about Migrations?
+  - have used Flyway or Liquibase?
 - Have already worked with or studied nosql
   - MongoDB, cassandra
-  - Redis
+  - Can you say some recommended use cases? How about not recommended? 
+  - have you used Redis
 - What is caching?
   - When is the best case to use or not to use?
 
