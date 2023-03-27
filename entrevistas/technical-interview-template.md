@@ -117,6 +117,12 @@ I really believe it's better to have a fluid conversation and perhaps touch on s
 - What is caching?
   - When is the best case to use or not to use?
 
+- Have you ever worked with Assync problemns, brokers, streaming?
+  - Have you ever used or know about RabbitMQ ?
+  - Have you ever used or know about SQS ?
+  - Have you ever used or know about Kafka ?
+  - Know about racing condittions?
+
 - Have already worked with or studied automated tests
   - Unit tests?
   - Junit 5 ?
