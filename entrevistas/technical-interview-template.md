@@ -17,7 +17,7 @@ These steps are more focused on Backend using Java and micro services but also c
 
 In parts, it can also be used for Front or FullStack interviews.
 
-Suggested time:
+Suggested duration:
 - For Junior: 30-60min
 - For Mid level: 45-60min
 - For Seniors: 60-90min
@@ -41,7 +41,7 @@ Add some icebreaker, talk about cool stuff, maybe about the location, or some ra
 
 Explain how it will be conducted;
 
-How the time will be divided;
+How many blocks, phases, how long will take each part;
 
 When the candidate will be able to ask questions;
 
