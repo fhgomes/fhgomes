@@ -2,10 +2,9 @@
 
 - 🔗 https://www.linkedin.com/in/fhgomes
 - 🔭 I’m currently working at [INVITE ME] company ...
-- 🌱 I’m currently wanting to learn about Go and Python
+- 🌱 I’m currently wanting to learn about AI, Go and Python
 - 👯 I’m looking to collaborate on cool projects
-- 🤔 I’m looking for help with Java, Spring and Cloud
-- 💬 Ask me about Java and Spring or Soft Programming Skills
+- 💬 Ask me about Java, Spring and Cloud or Soft Programming Skills
 - 📫 How to reach me: tech.fernando.gomes@gmail.com
 - 😄 My tech interview template: https://github.com/fhgomes/fhgomes/edit/master/entrevistas/technical-interview-template.md
 - ⚡ Fun fact: I'm the fastest runner developer alive
