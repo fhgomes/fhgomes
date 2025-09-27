@@ -9,7 +9,7 @@
 - 😄 Checkout [My tech interview template](https://github.com/fhgomes/technical-interviews/blob/main/technical-interview-template.md)
 )
 - ⚡ Fun fact: I'm the fastest runner developer alive
-- My Values: Autonomy, freedom, security, independency, value delivery, purpose, transparency, Autonomy, confidence, responsability, Ethics, Respect
+- My Values: Autonomy, ownership, freedom, responsability, security, independency, Ethics, value delivery, purpose, transparency, confidence, Respect  
 
 <!--
 **fhgomes/fhgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
