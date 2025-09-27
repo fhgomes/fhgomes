@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on cool projects
 - 💬 Ask me about Java, Spring and Cloud or Soft Programming Skills, Tech Lead and Team Building
 - 📫 How to reach me: tech.fernando.gomes@gmail.com
-- 😄 My tech interview template: https://github.com/fhgomes/technical-interviews/blob/main/technical-interview-template.md
+- 😄 Checkout [My tech interview template](https://github.com/fhgomes/technical-interviews/blob/main/technical-interview-template.md)
 )
 - ⚡ Fun fact: I'm the fastest runner developer alive
 - My Values: Autonomy, freedom, security, independency, value delivery, purpose, transparency, Autonomy, confidence, responsability, Ethics, Respect
