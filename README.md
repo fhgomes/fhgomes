@@ -2,7 +2,7 @@
 
 - 🔗 https://www.linkedin.com/in/fhgomes
 - 🔭 I’m currently working at [Incomm Payments](https://www.incomm.com/) company ...
-- 🌱 I’m currently wanting to learn about AI, Go and Python
+- 🌱 I’m currently learning about AI and Python
 - 👯 I’m looking to collaborate on cool projects
 - 💬 Ask me about Java, Spring and Cloud or Soft Programming Skills, Tech Lead and Team Building
 - 📫 How to reach me: tech.fernando.gomes@gmail.com
