@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔗 https://www.linkedin.com/in/fhgomes
+- 🔗 Find me here](https://linktr.ee/fhgomestech)
 - 🔭 I’m currently working at [Incomm Payments](https://www.incomm.com/) company ...
-- 🌱 I’m currently learning about AI and Python
+- 🌱 I’m currently learning about AI 
 - 👯 I’m looking to collaborate on cool projects
 - 💬 Ask me about Java, Spring and Cloud or Soft Programming Skills, Tech Lead and Team Building
 - 📫 How to reach me: tech.fernando.gomes@gmail.com
