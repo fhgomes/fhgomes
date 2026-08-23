@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔗 Find me here](https://linktr.ee/fhgomestech)
+- 🔗 [Find me here](https://linktr.ee/fhgomestech)
 - 🔭 I’m currently working at [Incomm Payments](https://www.incomm.com/) company ...
 - 🌱 I’m currently learning about AI 
 - 👯 I’m looking to collaborate on cool projects
