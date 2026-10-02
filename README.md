@@ -39,11 +39,11 @@ I speak at conferences, JUGs, lives and podcasts about Java architecture in the 
 * **Sep 25, 2026 · TDC 2026 São Paulo (Java Architecture track):** [Architecting a Java Application in the AI Era: Vector Memory, Hybrid RAG and Guardrails in Practice](https://thedevconf.com/tdc/2026/sao-paulo/trilha-arquitetura-java) · [slides](https://blog.fhgomes.com/content/files/2026/09/tdc-2026-sp-architecting-intelligent-java-ai-era.pdf)
 * **Sep 23, 2026 · TDC 2026 São Paulo (Community Lounge):** [AI-Driven Recruiting: The Invisible War Between Candidate and Algorithm](https://thedevconf.com/tdc/2026/sao-paulo/community-lounge)
 * **Sep 05, 2026 · DevConverge LATAM 2026 (São Paulo, at Nubank):** [Architecting a Java Application in the AI Era: Vector Search, Hybrid RAG and Guardrails in Practice](https://www.devconvergelatam.com/speakers/fernando-h-s-gomes) · [materials](https://blog.fhgomes.com/java-rag/)
-* **Aug 12, 2026 · SouJava São Paulo (at Oracle):** [Architecting an Intelligent and Secure Java Application in the AI Era: Hybrid RAG and Guardrails in Practice](https://www.youtube.com/watch?v=bsK7OkuetxA&t=1693s)
-* **Aug 05, 2026 · Brasil JUG:** [Architecting a Java Application in the AI Era: Hybrid RAG, Trade-offs and Guardrails in Practice](https://www.youtube.com/watch?v=wP3a7SbXCx0) (live)
-* **Jul 19, 2026 · DebugTech (Apinheira Tech):** [Architecting a Java Application in the AI Era with RAG](https://www.youtube.com/watch?v=VVkrLYYLYRY) (live)
-* **Jul 07, 2026 · Out of the Box Developer Podcast:** [PRs That Don't Look Vibe-coded: Spec-Driven and Harness in Practice](https://www.youtube.com/watch?v=BqJY4TrOnk0&t=283s) w/ Luiz Real (podcast)
-* **Jun 25, 2026 · SouJava Brasília (SouJava Sessions):** [Beyond Theory: Hybrid RAG, Vector Memory and Guardrails Applied to a Real Java Product](https://www.youtube.com/watch?v=OtjguChrl0o&t=360s)
+* **Aug 12, 2026 · SouJava São Paulo (at Oracle):** [Architecting an Intelligent and Secure Java Application in the AI Era: Hybrid RAG and Guardrails in Practice](https://www.youtube.com/watch?v=bsK7OkuetxA&t=1693s) ([recording](https://www.youtube.com/watch?v=bsK7OkuetxA&t=1693s))
+* **Aug 05, 2026 · Brasil JUG:** [Architecting a Java Application in the AI Era: Hybrid RAG, Trade-offs and Guardrails in Practice](https://www.youtube.com/watch?v=wP3a7SbXCx0) ([live](https://www.youtube.com/watch?v=wP3a7SbXCx0))
+* **Jul 19, 2026 · DebugTech (Apinheira Tech):** [Architecting a Java Application in the AI Era with RAG](https://www.youtube.com/watch?v=VVkrLYYLYRY) ([live](https://www.youtube.com/watch?v=VVkrLYYLYRY))
+* **Jul 07, 2026 · Out of the Box Developer Podcast:** [PRs That Don't Look Vibe-coded: Spec-Driven and Harness in Practice](https://www.youtube.com/watch?v=BqJY4TrOnk0&t=283s) w/ Luiz Real ([podcast](https://www.youtube.com/watch?v=BqJY4TrOnk0&t=283s))
+* **Jun 25, 2026 · SouJava Brasília (SouJava Sessions):** [Beyond Theory: Hybrid RAG, Vector Memory and Guardrails Applied to a Real Java Product](https://www.youtube.com/watch?v=OtjguChrl0o&t=360s) ([recording](https://www.youtube.com/watch?v=OtjguChrl0o&t=360s))
 
 ### Mentoring
 

@@ -13,7 +13,18 @@ import yaml
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 START = "<!-- BRAG:START (generated from brag.yml, do not edit by hand) -->"
 END = "<!-- BRAG:END -->"
-FORMAT_SUFFIX = {"panel": " (panel)", "podcast": " (podcast)", "live": " (live)"}
+FORMAT_LABEL = {"panel": "panel", "podcast": "podcast", "live": "live"}
+RECORDING_HOSTS = ("youtube.com/", "youtu.be/")
+
+
+def format_label(e):
+    """'live' / 'podcast' / 'panel', or 'recording' for a recorded talk.
+    Linked to the recording whenever the main url is one."""
+    recorded = any(h in (e.get("url") or "") for h in RECORDING_HOSTS)
+    label = FORMAT_LABEL.get(e.get("format")) or ("recording" if recorded else None)
+    if not label:
+        return ""
+    return f" ([{label}]({e['url']}))" if recorded else f" ({label})"
 
 
 def fmt_date(d):
@@ -27,7 +38,7 @@ def entry(e):
     line = f"* **{fmt_date(e['date'])} · {e['event']}:** {title}"
     if e.get("with"):
         line += f" w/ {e['with']}"
-    line += FORMAT_SUFFIX.get(e.get("format"), "")
+    line += format_label(e)
     for x in e.get("extra") or []:
         line += f" · [{x['label']}]({x['url']})"
     if e.get("note"):
