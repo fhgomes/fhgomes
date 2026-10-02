@@ -1,0 +1,110 @@
+# Single source of truth for my public activity (talks, mentoring, community).
+#
+# Edit THIS file, never the generated block in README.md: a GitHub Action
+# re-renders the README on every push that touches brag.yml. The blog page
+# (blog.fhgomes.com) is generated from this same file.
+#
+# Entry fields:
+#   date     YYYY-MM-DD (required)
+#   event    event name (required)
+#   title    session title, in English (required)
+#   url      main link: recording, slides or event page (optional)
+#   extra    list of {label, url} for secondary links (optional)
+#   format   talk | panel | podcast | live | mentoring (optional)
+#   note     one line shown under the entry (optional)
+#   with     co-hosts / guests (optional)
+#
+# Newest first is not required: the renderer sorts by date.
+
+profiles:
+  - label: TDC speaker profile
+    url: https://thedevconf.com/palestrante/fernando-gomes
+  - label: DevConverge LATAM speaker profile
+    url: https://www.devconvergelatam.com/speakers/fernando-h-s-gomes
+
+speaking:
+  - date: 2026-09-25
+    event: TDC 2026 São Paulo (Java Architecture track)
+    title: "Architecting a Java Application in the AI Era: Vector Memory, Hybrid RAG and Guardrails in Practice"
+    format: talk
+    url: https://thedevconf.com/tdc/2026/sao-paulo/trilha-arquitetura-java
+    extra:
+      - label: slides
+        url: https://blog.fhgomes.com/content/files/2026/09/tdc-2026-sp-architecting-intelligent-java-ai-era.pdf
+
+  - date: 2026-09-23
+    event: TDC 2026 São Paulo (Community Lounge)
+    title: "AI-Driven Recruiting: The Invisible War Between Candidate and Algorithm"
+    format: talk
+    url: https://thedevconf.com/palestrante/fernando-gomes
+
+  - date: 2026-09-05
+    event: DevConverge LATAM 2026 (São Paulo, at Nubank)
+    title: "Architecting a Java Application in the AI Era: Vector Search, Hybrid RAG and Guardrails in Practice"
+    format: talk
+    url: https://www.devconvergelatam.com/speakers/fernando-h-s-gomes
+    extra:
+      - label: materials
+        url: https://blog.fhgomes.com/java-rag/
+
+  - date: 2026-07-19
+    event: DebugTech (Apinheira Tech)
+    title: "Architecting a Java Application in the AI Era with RAG"
+    format: live
+    url: https://www.youtube.com/watch?v=VVkrLYYLYRY
+
+  - date: 2026-07-07
+    event: Out of the Box Developer Podcast
+    title: "PRs That Don't Look Vibe-coded: Spec-Driven and Harness in Practice"
+    format: podcast
+    with: Luiz Real
+    url: https://www.youtube.com/watch?v=BqJY4TrOnk0
+
+  - date: 2026-06-25
+    event: "SouJava Brasília Sessions #007"
+    title: "Beyond Theory: Hybrid RAG, Vector Memory and Guardrails Applied to a Real Java Product"
+    format: talk
+    url: https://www.youtube.com/watch?v=OtjguChrl0o
+
+mentoring:
+  - date: 2026-09-25
+    event: TDC 2026 São Paulo, Mentorship Hub
+    title: "How to Grow Technically Without Sacrificing Your Personal Life in the AI Era"
+    url: https://thedevconf.com/tdc/2026/sao-paulo/hub-mentorias
+
+  - date: 2026-09-05
+    event: DevConverge LATAM 2026, Mentoring (Table 1, 15:15)
+    title: "Career and the International Market for Devs in 2026"
+    url: https://www.devconvergelatam.com/mentorias
+    note: >-
+      Seniority isn't time served, it's how you decide, communicate and influence.
+      What actually moves a dev between levels (mid, senior, tech lead, staff) and
+      how to build a real path to a role abroad, no magic formula.
+
+  - date: 2026-09-05
+    event: DevConverge LATAM 2026, Mentoring (Table 2, 09:45)
+    title: "How to Ship Quality Code Written 100% by AI"
+    url: https://www.devconvergelatam.com/mentorias
+    note: >-
+      Harness engineering with Spec-Driven Development and Spec-Kit: guides, sensors,
+      loops, gates and memory, so the PR review reads "this doesn't look vibe-coded".
+
+  - date: 2026-07-24
+    event: TDC 2026 Florianópolis, Mentorship Hub
+    title: "How to Grow Technically Without Sacrificing Your Personal Life in the AI Era"
+    url: https://thedevconf.com/tdc/2026/florianopolis/hub-mentorias
+
+  - date: 2026-07-23
+    event: TDC 2026 Florianópolis, Mentorship Hub
+    title: "Career Progression and the International Market for Devs and Tech Leads in 2026"
+    url: https://thedevconf.com/tdc/2026/florianopolis/hub-mentorias
+
+  - date: 2026-04-24
+    event: TDC 2026 Summit AI São Paulo, Mentorship Hub
+    title: "How to Progress in Your Career and Lead Technically Without Being Swallowed by the AI Era"
+    url: https://thedevconf.com/tdc/2026/summit-sao-paulo/hub-mentorias
+
+  - date: 2026-04-23
+    event: TDC 2026 Summit AI São Paulo, Mentorship Hub
+    title: "Senior Career & Mental Health: How to Grow Technically Without Sacrificing Your Personal Life"
+    url: https://thedevconf.com/tdc/2026/summit-sao-paulo/hub-mentorias
