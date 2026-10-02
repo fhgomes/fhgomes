@@ -1,8 +1,12 @@
 # Single source of truth for my public activity (talks, mentoring, community).
 #
-# Edit THIS file, never the generated block in README.md: a GitHub Action
-# re-renders the README on every push that touches brag.yml. The blog page
-# (blog.fhgomes.com) is generated from this same file.
+# Edit THIS file, never the generated block in README.md:
+#   - README.md: a GitHub Action re-renders it on every push that touches brag.yml.
+#   - blog.fhgomes.com/speaking/: a daily cron on the blog server (07:00 Berlin,
+#     02:00 BRT) republishes the page when this file changed. Docs:
+#     ghost-fhgomes-themes/CLAUDE.md, section "/speaking/ e o brag.yml".
+# A "live"/"podcast"/"panel" label (or "recording" for a recorded talk) links to
+# the recording whenever `url` is a YouTube link.
 #
 # Entry fields:
 #   date     YYYY-MM-DD (required)
