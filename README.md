@@ -21,7 +21,7 @@ I speak at conferences, JUGs, lives and podcasts about Java architecture in the 
 
 * **TDC 2026 São Paulo:** two talks, on the Java Architecture track and the Community Lounge. [Speaker profile](https://thedevconf.com/palestrante/fernando-gomes)
 * **DevConverge LATAM 2026:** speaker and mentor at Latin America's developer gathering, at Nubank São Paulo. [Speaker profile](https://www.devconvergelatam.com/speakers/fernando-h-s-gomes)
-* **Community talks and shows:** SouJava São Paulo, SouJava Brasília, DebugTech, Out of the Box Developer Podcast.
+* **Community talks and shows:** SouJava São Paulo, SouJava Brasília, Brasil JUG, DebugTech, Out of the Box Developer Podcast.
 
 ## 🤝 Mentorship
 

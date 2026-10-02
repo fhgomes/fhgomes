@@ -53,6 +53,12 @@ speaking:
     format: talk
     url: https://www.youtube.com/watch?v=bsK7OkuetxA&t=1693s
 
+  - date: 2026-08-05
+    event: Brasil JUG
+    title: "Architecting a Java Application in the AI Era: Hybrid RAG, Trade-offs and Guardrails in Practice"
+    format: live
+    url: https://www.youtube.com/watch?v=wP3a7SbXCx0
+
   - date: 2026-07-19
     event: DebugTech (Apinheira Tech)
     title: "Architecting a Java Application in the AI Era with RAG"
