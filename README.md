@@ -17,7 +17,7 @@ I speak at conferences and community events and mentor developers on career grow
 
 ## 🎤 Public Speaking & Evangelism Highlights
 
-I speak at conferences, JUGs, lives and podcasts about Java architecture in the AI era (hybrid RAG, vector search, guardrails), Spec-Driven Development and harness engineering for AI coding, and career growth for senior developers.
+I speak at conferences, JUGs, lives and podcasts about Java architecture, systems in the AI era (hybrid RAG, vector search, guardrails), Spec-Driven Development and harness engineering for AI coding, and career growth for senior developers.
 
 * **TDC 2026 São Paulo:** two talks, on the Java Architecture track and the Community Lounge. [Speaker profile](https://thedevconf.com/palestrante/fernando-gomes)
 * **DevConverge LATAM 2026:** speaker and mentor at Latin America's developer gathering, at Nubank São Paulo. [Speaker profile](https://www.devconvergelatam.com/speakers/fernando-h-s-gomes)
