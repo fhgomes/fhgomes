@@ -27,6 +27,13 @@ profiles:
     url: https://www.devconvergelatam.com/speakers/fernando-h-s-gomes
 
 speaking:
+  - date: 2026-10-09
+    event: Informal Talk Training (online)
+    title: "Building a Career Assistant: Real Java Apps with Hybrid RAG and Guardrails"
+    format: talk
+    url: https://drive.google.com/file/d/13SrHtlRsngIe4O-rZkV85aZudgbIkCFT/view?usp=sharing
+    note: "English version."
+
   - date: 2026-09-25
     event: TDC 2026 São Paulo (Java Architecture track)
     title: "Architecting a Java Application in the AI Era: Vector Memory, Hybrid RAG and Guardrails in Practice"
