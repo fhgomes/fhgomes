@@ -28,10 +28,13 @@ profiles:
 
 speaking:
   - date: 2026-10-09
-    event: Informal Talk Training (online)
+    event: Informal Talk Training
     title: "Building a Career Assistant: Real Java Apps with Hybrid RAG and Guardrails"
     format: talk
     url: https://drive.google.com/file/d/13SrHtlRsngIe4O-rZkV85aZudgbIkCFT/view?usp=sharing
+    extra:
+      - label: online
+        url: https://drive.google.com/file/d/13SrHtlRsngIe4O-rZkV85aZudgbIkCFT/view?usp=sharing
     note: "English version."
 
   - date: 2026-09-25

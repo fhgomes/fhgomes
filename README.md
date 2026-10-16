@@ -36,7 +36,7 @@ I speak at conferences, JUGs, lives and podcasts about Java architecture, system
 
 ### Talks, Lives & Podcasts
 
-* **Oct 09, 2026 · Informal Talk Training (online):** [Building a Career Assistant: Real Java Apps with Hybrid RAG and Guardrails](https://drive.google.com/file/d/13SrHtlRsngIe4O-rZkV85aZudgbIkCFT/view?usp=sharing)
+* **Oct 09, 2026 · Informal Talk Training:** [Building a Career Assistant: Real Java Apps with Hybrid RAG and Guardrails](https://drive.google.com/file/d/13SrHtlRsngIe4O-rZkV85aZudgbIkCFT/view?usp=sharing) · [online](https://drive.google.com/file/d/13SrHtlRsngIe4O-rZkV85aZudgbIkCFT/view?usp=sharing)
   <br><sub>English version.</sub>
 * **Sep 25, 2026 · TDC 2026 São Paulo (Java Architecture track):** [Architecting a Java Application in the AI Era: Vector Memory, Hybrid RAG and Guardrails in Practice](https://thedevconf.com/tdc/2026/sao-paulo/trilha-arquitetura-java) · [slides](https://blog.fhgomes.com/content/files/2026/09/tdc-2026-sp-architecting-intelligent-java-ai-era.pdf)
 * **Sep 23, 2026 · TDC 2026 São Paulo (Community Lounge):** [AI-Driven Recruiting: The Invisible War Between Candidate and Algorithm](https://thedevconf.com/tdc/2026/sao-paulo/community-lounge)
