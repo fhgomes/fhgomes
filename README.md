@@ -61,6 +61,7 @@ I speak at conferences, JUGs, lives and podcasts about Java architecture, system
 
 ### Speaker Profiles
 
+* [Sessionize speaker profile](https://sessionize.com/fhgomes)
 * [TDC speaker profile](https://thedevconf.com/palestrante/fernando-gomes)
 * [DevConverge LATAM speaker profile](https://www.devconvergelatam.com/speakers/fernando-h-s-gomes)
 <!-- BRAG:END -->

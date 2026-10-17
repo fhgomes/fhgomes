@@ -21,6 +21,8 @@
 # Newest first is not required: the renderer sorts by date.
 
 profiles:
+  - label: Sessionize speaker profile
+    url: https://sessionize.com/fhgomes
   - label: TDC speaker profile
     url: https://thedevconf.com/palestrante/fernando-gomes
   - label: DevConverge LATAM speaker profile
