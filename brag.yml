@@ -29,6 +29,16 @@ profiles:
     url: https://www.devconvergelatam.com/speakers/fernando-h-s-gomes
 
 speaking:
+  - date: 2026-10-21
+    event: AI Collective São Paulo (at FIAP)
+    title: "Secure and Efficient AI Applications: How to Shield Your Product Against Hallucinations and Attacks"
+    format: talk
+    url: https://luma.com/aic-sa-10-21
+    extra:
+      - label: slides
+        url: https://apps.fhgomes.com/slides/ia-segura-2026/ia-segura-2026.pdf
+    note: "Original title (PT): Aplicações de IA seguras e eficientes: como blindar seu produto contra alucinações e ataques."
+
   - date: 2026-10-09
     event: Informal Talk Training
     title: "Building a Career Assistant: Real Java Apps with Hybrid RAG and Guardrails"
