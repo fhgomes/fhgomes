@@ -36,6 +36,8 @@ I speak at conferences, JUGs, lives and podcasts about Java architecture, system
 
 ### Talks, Lives & Podcasts
 
+* **Oct 21, 2026 · AI Collective São Paulo (at FIAP):** [Secure and Efficient AI Applications: How to Shield Your Product Against Hallucinations and Attacks](https://luma.com/aic-sa-10-21) · [slides](https://apps.fhgomes.com/slides/ia-segura-2026/ia-segura-2026.pdf)
+  <br><sub>Original title (PT): Aplicações de IA seguras e eficientes: como blindar seu produto contra alucinações e ataques.</sub>
 * **Oct 09, 2026 · Informal Talk Training:** [Building a Career Assistant: Real Java Apps with Hybrid RAG and Guardrails](https://drive.google.com/file/d/13SrHtlRsngIe4O-rZkV85aZudgbIkCFT/view?usp=sharing) · [online](https://drive.google.com/file/d/13SrHtlRsngIe4O-rZkV85aZudgbIkCFT/view?usp=sharing)
   <br><sub>English version.</sub>
 * **Sep 25, 2026 · TDC 2026 São Paulo (Java Architecture track):** [Architecting a Java Application in the AI Era: Vector Memory, Hybrid RAG and Guardrails in Practice](https://thedevconf.com/tdc/2026/sao-paulo/trilha-arquitetura-java) · [slides](https://blog.fhgomes.com/content/files/2026/09/tdc-2026-sp-architecting-intelligent-java-ai-era.pdf)
