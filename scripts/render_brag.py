@@ -15,6 +15,10 @@ START = "<!-- BRAG:START (generated from brag.yml, do not edit by hand) -->"
 END = "<!-- BRAG:END -->"
 FORMAT_LABEL = {"panel": "panel", "podcast": "podcast", "live": "live"}
 RECORDING_HOSTS = ("youtube.com/", "youtu.be/")
+# Language flag per entry. Images, not emoji: Windows renders flag emoji as
+# two letters ("BR", "US").
+FLAGS = {"pt": ("br", "PT", "Given in Portuguese"),
+         "en": ("us", "EN", "Given in English")}
 
 
 def format_label(e):
@@ -33,9 +37,17 @@ def fmt_date(d):
     return d.strftime("%b %d, %Y")
 
 
+def flag(e):
+    if e.get("lang") not in FLAGS:
+        return ""
+    name, alt, tip = FLAGS[e["lang"]]
+    return (f'<img src="assets/flags/{name}.svg" height="11" alt="{alt}" '
+            f'title="{tip}"> ')
+
+
 def entry(e):
     title = f"[{e['title']}]({e['url']})" if e.get("url") else e["title"]
-    line = f"* **{fmt_date(e['date'])} · {e['event']}:** {title}"
+    line = f"* {flag(e)}**{fmt_date(e['date'])} · {e['event']}:** {title}"
     if e.get("with"):
         line += f" w/ {e['with']}"
     line += format_label(e)
