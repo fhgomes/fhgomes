@@ -53,10 +53,12 @@ speaking:
     event: TDC 2026 São Paulo (Java Architecture track)
     title: "Architecting a Java Application in the AI Era: Vector Memory, Hybrid RAG and Guardrails in Practice"
     format: talk
-    url: https://thedevconf.com/tdc/2026/sao-paulo/trilha-arquitetura-java
+    url: https://www.youtube.com/watch?v=-v9AIAgKb3M
     extra:
       - label: slides
         url: https://blog.fhgomes.com/content/files/2026/09/tdc-2026-sp-architecting-intelligent-java-ai-era.pdf
+      - label: event page
+        url: https://thedevconf.com/tdc/2026/sao-paulo/trilha-arquitetura-java
 
   - date: 2026-09-23
     event: TDC 2026 São Paulo (Community Lounge)
