@@ -30,6 +30,18 @@ profiles:
     url: https://www.devconvergelatam.com/speakers/fernando-h-s-gomes
 
 speaking:
+  - date: 2026-11-07
+    event: DevPR Conf 26 (Maringá)
+    lang: pt
+    title: "Your Code Isn't Enough: The International Market for Devs in 2026"
+    format: talk
+    with: Camila Rodrigues
+    url: https://devpr.org/
+    extra:
+      - label: slides
+        url: https://apps.fhgomes.com/slides/your-code-isnt-enough-devpr-2026/your-code-isnt-enough-devpr-2026.pdf
+    note: "Original title (PT): O mercado internacional para devs em 2026: Your Code Isn't Enough."
+
   - date: 2026-10-21
     event: AI Collective São Paulo (at FIAP)
     lang: pt
