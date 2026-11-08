@@ -36,6 +36,8 @@ I speak at conferences, JUGs, lives and podcasts about Java architecture, system
 
 ### Talks, Lives & Podcasts
 
+* <img src="assets/flags/br.svg" height="11" alt="PT" title="Given in Portuguese"> **Nov 07, 2026 · DevPR Conf 26 (Maringá):** [Your Code Isn't Enough: The International Market for Devs in 2026](https://devpr.org/) w/ Camila Rodrigues · [slides](https://apps.fhgomes.com/slides/your-code-isnt-enough-devpr-2026/your-code-isnt-enough-devpr-2026.pdf)
+  <br><sub>Original title (PT): O mercado internacional para devs em 2026: Your Code Isn't Enough.</sub>
 * <img src="assets/flags/br.svg" height="11" alt="PT" title="Given in Portuguese"> **Oct 21, 2026 · AI Collective São Paulo (at FIAP):** [Secure and Efficient AI Applications: How to Shield Your Product Against Hallucinations and Attacks](https://luma.com/aic-sa-10-21) · [slides](https://apps.fhgomes.com/slides/ia-segura-2026/ia-segura-2026.pdf)
   <br><sub>Original title (PT): Aplicações de IA seguras e eficientes: como blindar seu produto contra alucinações e ataques.</sub>
 * <img src="assets/flags/us.svg" height="11" alt="EN" title="Given in English"> **Oct 09, 2026 · Informal Talk Training:** [Building a Career Assistant: Real Java Apps with Hybrid RAG and Guardrails](https://drive.google.com/file/d/13SrHtlRsngIe4O-rZkV85aZudgbIkCFT/view?usp=sharing) · [online](https://drive.google.com/file/d/13SrHtlRsngIe4O-rZkV85aZudgbIkCFT/view?usp=sharing)
