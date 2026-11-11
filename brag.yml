@@ -30,6 +30,26 @@ profiles:
     url: https://www.devconvergelatam.com/speakers/fernando-h-s-gomes
 
 speaking:
+  - date: 2026-11-11
+    event: Tamilnadu JUG
+    lang: en
+    title: "The Cyborg Engineer: Amplified by AI, Becoming a One-Person Software Company"
+    format: live
+    url: https://www.linkedin.com/events/7524159908724756480/theater/
+    extra:
+      - label: slides
+        url: https://apps.fhgomes.com/slides/cyborg-engineer-2027/
+
+  - date: 2026-11-10
+    event: Out of the Box Developer
+    lang: en
+    title: "The Cyborg Engineer: Amplified by AI, Becoming a One-Person Software Company"
+    format: live
+    url: https://www.youtube.com/watch?v=5it1d75qBhY
+    extra:
+      - label: slides
+        url: https://apps.fhgomes.com/slides/cyborg-engineer-2027/
+
   - date: 2026-11-07
     event: DevPR Conf 26 (Maringá)
     lang: pt
