@@ -36,6 +36,8 @@ I speak at conferences, JUGs, lives and podcasts about Java architecture, system
 
 ### Talks, Lives & Podcasts
 
+* <img src="assets/flags/us.svg" height="11" alt="EN" title="Given in English"> **Nov 11, 2026 · Tamilnadu JUG:** [The Cyborg Engineer: Amplified by AI, Becoming a One-Person Software Company](https://www.linkedin.com/events/7524159908724756480/theater/) (live) · [slides](https://apps.fhgomes.com/slides/cyborg-engineer-2027/)
+* <img src="assets/flags/us.svg" height="11" alt="EN" title="Given in English"> **Nov 10, 2026 · Out of the Box Developer:** [The Cyborg Engineer: Amplified by AI, Becoming a One-Person Software Company](https://www.youtube.com/watch?v=5it1d75qBhY) ([live](https://www.youtube.com/watch?v=5it1d75qBhY)) · [slides](https://apps.fhgomes.com/slides/cyborg-engineer-2027/)
 * <img src="assets/flags/br.svg" height="11" alt="PT" title="Given in Portuguese"> **Nov 07, 2026 · DevPR Conf 26 (Maringá):** [Your Code Isn't Enough: The International Market for Devs in 2026](https://devpr.org/) w/ Camila Rodrigues · [slides](https://apps.fhgomes.com/slides/your-code-isnt-enough-devpr-2026/your-code-isnt-enough-devpr-2026.pdf)
   <br><sub>Original title (PT): O mercado internacional para devs em 2026: Your Code Isn't Enough.</sub>
 * <img src="assets/flags/br.svg" height="11" alt="PT" title="Given in Portuguese"> **Oct 21, 2026 · AI Collective São Paulo (at FIAP):** [Secure and Efficient AI Applications: How to Shield Your Product Against Hallucinations and Attacks](https://luma.com/aic-sa-10-21) · [slides](https://apps.fhgomes.com/slides/ia-segura-2026/ia-segura-2026.pdf)
