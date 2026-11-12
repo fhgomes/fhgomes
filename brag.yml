@@ -17,7 +17,13 @@
 #   format   talk | panel | podcast | live | mentoring (optional)
 #   note     one line shown under the entry (optional)
 #   with     co-hosts / guests (optional)
-#   lang     language the session was given in: pt | en (shown as a flag)
+#   lang     language the session was given in: pt | en (shown as PT-BR / EN)
+#   country  where it happened, shown as a flag: br | in | us | ... | global.
+#            `global` = online for an international audience, no single country
+#            (globe). An online session in Portuguese is `br`. If omitted:
+#            lang pt -> br, anything else -> global. A new country needs its flag:
+#            assets/flags/<code>.svg here and partials/icons/flag-<code>.hbs in
+#            ghost-fhgomes-themes.
 #
 # Newest first is not required: the renderer sorts by date.
 
@@ -33,16 +39,20 @@ speaking:
   - date: 2026-11-11
     event: Tamilnadu JUG
     lang: en
+    country: in
     title: "The Cyborg Engineer: Amplified by AI, Becoming a One-Person Software Company"
     format: live
-    url: https://www.linkedin.com/events/7524159908724756480/theater/
+    url: https://www.youtube.com/watch?v=_nj5Rshk_Gg
     extra:
       - label: slides
         url: https://apps.fhgomes.com/slides/cyborg-engineer-2027/
+      - label: linkedin
+        url: https://www.linkedin.com/events/7524159908724756480/theater/
 
   - date: 2026-11-10
     event: Out of the Box Developer
     lang: en
+    country: global
     title: "The Cyborg Engineer: Amplified by AI, Becoming a One-Person Software Company"
     format: live
     url: https://www.youtube.com/watch?v=5it1d75qBhY
@@ -53,6 +63,7 @@ speaking:
   - date: 2026-11-07
     event: DevPR Conf 26 (Maringá)
     lang: pt
+    country: br
     title: "Your Code Isn't Enough: The International Market for Devs in 2026"
     format: talk
     with: Camila Rodrigues
@@ -65,6 +76,7 @@ speaking:
   - date: 2026-10-21
     event: AI Collective São Paulo (at FIAP)
     lang: pt
+    country: br
     title: "Secure and Efficient AI Applications: How to Shield Your Product Against Hallucinations and Attacks"
     format: talk
     url: https://luma.com/aic-sa-10-21
@@ -76,6 +88,7 @@ speaking:
   - date: 2026-10-09
     event: Informal Talk Training
     lang: en
+    country: global
     title: "Building a Career Assistant: Real Java Apps with Hybrid RAG and Guardrails"
     format: talk
     url: https://drive.google.com/file/d/13SrHtlRsngIe4O-rZkV85aZudgbIkCFT/view?usp=sharing
@@ -87,6 +100,7 @@ speaking:
   - date: 2026-09-25
     event: TDC 2026 São Paulo (Java Architecture track)
     lang: pt
+    country: br
     title: "Architecting a Java Application in the AI Era: Vector Memory, Hybrid RAG and Guardrails in Practice"
     format: talk
     url: https://www.youtube.com/watch?v=-v9AIAgKb3M
@@ -99,6 +113,7 @@ speaking:
   - date: 2026-09-23
     event: TDC 2026 São Paulo (Community Lounge)
     lang: pt
+    country: br
     title: "AI-Driven Recruiting: The Invisible War Between Candidate and Algorithm"
     format: talk
     url: https://thedevconf.com/tdc/2026/sao-paulo/community-lounge
@@ -106,6 +121,7 @@ speaking:
   - date: 2026-09-05
     event: DevConverge LATAM 2026 (São Paulo, at Nubank)
     lang: pt
+    country: br
     title: "Architecting a Java Application in the AI Era: Vector Search, Hybrid RAG and Guardrails in Practice"
     format: talk
     url: https://www.devconvergelatam.com/speakers/fernando-h-s-gomes
@@ -116,6 +132,7 @@ speaking:
   - date: 2026-08-12
     event: SouJava São Paulo (at Oracle)
     lang: pt
+    country: br
     title: "Architecting an Intelligent and Secure Java Application in the AI Era: Hybrid RAG and Guardrails in Practice"
     format: talk
     url: https://www.youtube.com/watch?v=bsK7OkuetxA&t=1693s
@@ -123,6 +140,7 @@ speaking:
   - date: 2026-08-05
     event: Brasil JUG
     lang: pt
+    country: br
     title: "Architecting a Java Application in the AI Era: Hybrid RAG, Trade-offs and Guardrails in Practice"
     format: live
     url: https://www.youtube.com/watch?v=wP3a7SbXCx0
@@ -130,6 +148,7 @@ speaking:
   - date: 2026-07-19
     event: DebugTech (Apinheira Tech)
     lang: pt
+    country: br
     title: "Architecting a Java Application in the AI Era with RAG"
     format: live
     url: https://www.youtube.com/watch?v=VVkrLYYLYRY
@@ -137,6 +156,7 @@ speaking:
   - date: 2026-07-07
     event: Out of the Box Developer Podcast
     lang: en
+    country: global
     title: "PRs That Don't Look Vibe-coded: Spec-Driven and Harness in Practice"
     format: podcast
     with: Luiz Real
@@ -145,6 +165,7 @@ speaking:
   - date: 2026-06-25
     event: SouJava Brasília (SouJava Sessions)
     lang: pt
+    country: br
     title: "Beyond Theory: Hybrid RAG, Vector Memory and Guardrails Applied to a Real Java Product"
     format: talk
     url: https://www.youtube.com/watch?v=OtjguChrl0o&t=360s
@@ -153,12 +174,14 @@ mentoring:
   - date: 2026-09-25
     event: TDC 2026 São Paulo, Mentorship Hub
     lang: pt
+    country: br
     title: "How to Grow Technically Without Sacrificing Your Personal Life in the AI Era"
     url: https://thedevconf.com/tdc/2026/sao-paulo/hub-mentorias
 
   - date: 2026-09-05
     event: DevConverge LATAM 2026, Mentoring (Table 1, 15:15)
     lang: pt
+    country: br
     title: "Career and the International Market for Devs in 2026"
     url: https://www.devconvergelatam.com/mentorias
     note: >-
@@ -169,6 +192,7 @@ mentoring:
   - date: 2026-09-05
     event: DevConverge LATAM 2026, Mentoring (Table 2, 09:45)
     lang: pt
+    country: br
     title: "How to Ship Quality Code Written 100% by AI"
     url: https://www.devconvergelatam.com/mentorias
     note: >-
@@ -178,23 +202,27 @@ mentoring:
   - date: 2026-07-24
     event: TDC 2026 Florianópolis, Mentorship Hub
     lang: pt
+    country: br
     title: "How to Grow Technically Without Sacrificing Your Personal Life in the AI Era"
     url: https://thedevconf.com/tdc/2026/florianopolis/hub-mentorias
 
   - date: 2026-07-23
     event: TDC 2026 Florianópolis, Mentorship Hub
     lang: pt
+    country: br
     title: "Career Progression and the International Market for Devs and Tech Leads in 2026"
     url: https://thedevconf.com/tdc/2026/florianopolis/hub-mentorias
 
   - date: 2026-04-24
     event: TDC 2026 Summit AI São Paulo, Mentorship Hub
     lang: pt
+    country: br
     title: "How to Progress in Your Career and Lead Technically Without Being Swallowed by the AI Era"
     url: https://thedevconf.com/tdc/2026/summit-sao-paulo/hub-mentorias
 
   - date: 2026-04-23
     event: TDC 2026 Summit AI São Paulo, Mentorship Hub
     lang: pt
+    country: br
     title: "Senior Career & Mental Health: How to Grow Technically Without Sacrificing Your Personal Life"
     url: https://thedevconf.com/tdc/2026/summit-sao-paulo/hub-mentorias

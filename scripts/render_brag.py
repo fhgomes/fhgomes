@@ -15,10 +15,16 @@ START = "<!-- BRAG:START (generated from brag.yml, do not edit by hand) -->"
 END = "<!-- BRAG:END -->"
 FORMAT_LABEL = {"panel": "panel", "podcast": "podcast", "live": "live"}
 RECORDING_HOSTS = ("youtube.com/", "youtu.be/")
-# Language flag per entry. Images, not emoji: Windows renders flag emoji as
-# two letters ("BR", "US").
-FLAGS = {"pt": ("br", "PT", "Given in Portuguese"),
-         "en": ("us", "EN", "Given in English")}
+# `lang` -> text label after the event name.
+LANG_LABEL = {"pt": "PT-BR", "en": "EN"}
+# `country` -> flag in front of the entry: where the session happened, NOT its
+# language. "global" is the globe (online, no single country). Without
+# `country`, a session in Portuguese counts as Brazil and anything else as
+# global. Images, not emoji: Windows renders flag emoji as two letters ("BR").
+# Each code needs assets/flags/<code>.svg.
+LANG_COUNTRY = {"pt": "br"}
+COUNTRY_NAME = {"br": "Brazil", "in": "India", "us": "United States",
+                "global": "Online, international audience"}
 
 
 def format_label(e):
@@ -38,16 +44,19 @@ def fmt_date(d):
 
 
 def flag(e):
-    if e.get("lang") not in FLAGS:
+    code = str(e.get("country") or LANG_COUNTRY.get(e.get("lang"), "global")).lower()
+    if not code.isalnum() or not (ROOT / "assets" / "flags" / f"{code}.svg").exists():
+        print(f"no flag for country {code!r} ({e['event']})", file=sys.stderr)
         return ""
-    name, alt, tip = FLAGS[e["lang"]]
-    return (f'<img src="assets/flags/{name}.svg" height="11" alt="{alt}" '
-            f'title="{tip}"> ')
+    name = COUNTRY_NAME.get(code, code.upper())
+    return (f'<img src="assets/flags/{code}.svg" height="11" alt="{name}" '
+            f'title="{name}"> ')
 
 
 def entry(e):
     title = f"[{e['title']}]({e['url']})" if e.get("url") else e["title"]
-    line = f"* {flag(e)}**{fmt_date(e['date'])} · {e['event']}:** {title}"
+    lang = f" · {LANG_LABEL[e['lang']]}" if e.get("lang") in LANG_LABEL else ""
+    line = f"* {flag(e)}**{fmt_date(e['date'])} · {e['event']}{lang}:** {title}"
     if e.get("with"):
         line += f" w/ {e['with']}"
     line += format_label(e)
