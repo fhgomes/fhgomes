@@ -5,6 +5,9 @@ on:
     branches: [master]
     paths: [brag.yml, scripts/render_brag.py]
   workflow_dispatch:
+  schedule:
+    # daily: past events leave "Next Events" without anyone pushing
+    - cron: "0 5 * * *"
 
 permissions:
   contents: write

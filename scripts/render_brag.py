@@ -24,6 +24,7 @@ LANG_LABEL = {"pt": "PT-BR", "en": "EN"}
 # Each code needs assets/flags/<code>.svg.
 LANG_COUNTRY = {"pt": "br"}
 COUNTRY_NAME = {"br": "Brazil", "in": "India", "us": "United States",
+                "pe": "Peru", "ng": "Nigeria",
                 "global": "Online, international audience"}
 
 
@@ -72,10 +73,24 @@ def section(title, items):
     return [f"### {title}", ""] + [entry(e) for e in items] + [""]
 
 
-def render(data):
+def as_date(d):
+    return d if isinstance(d, datetime.date) else datetime.date.fromisoformat(str(d))
+
+
+def render(data, today=None):
+    # Today or later -> "Next Events" (soonest first). The workflow also runs
+    # daily, so an event moves to the history the day after it happens.
+    today = today or datetime.date.today()
+    upcoming, past = [], {}
+    for key in ("speaking", "mentoring"):
+        past[key] = [e for e in data.get(key) or [] if as_date(e["date"]) < today]
+        upcoming += [e for e in data.get(key) or [] if as_date(e["date"]) >= today]
     out = ["## Activity Log", ""]
-    out += section("Talks, Lives & Podcasts", data.get("speaking"))
-    out += section("Mentoring", data.get("mentoring"))
+    if upcoming:
+        upcoming.sort(key=lambda e: as_date(e["date"]))
+        out += ["### Next Events", ""] + [entry(e) for e in upcoming] + [""]
+    out += section("Talks, Lives & Podcasts", past["speaking"])
+    out += section("Mentoring", past["mentoring"])
     if data.get("profiles"):
         out += ["### Speaker Profiles", ""]
         out += [f"* [{p['label']}]({p['url']})" for p in data["profiles"]] + [""]

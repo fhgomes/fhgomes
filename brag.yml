@@ -36,6 +36,33 @@ profiles:
     url: https://www.devconvergelatam.com/speakers/fernando-h-s-gomes
 
 speaking:
+  # Future dates show under "Next events" (README and /speaking/) and move to
+  # the history by themselves the day after (daily Action + daily blog cron).
+  - date: 2026-11-28
+    event: JConf Peru 2026 (Lima)
+    lang: en
+    country: pe
+    title: "Architecting an Application in the AI Era: Hybrid RAG, Trade-offs and Guardrails in Practice"
+    format: talk
+    url: https://www.jconfperu.com/
+
+  - date: 2026-11-28
+    event: JConf Peru 2026 (Lima)
+    lang: en
+    country: pe
+    title: "Goodbye SOAP and JDK 11: Modernizing a 10-Year-Old System with AI, Fast and Safe"
+    format: talk
+    url: https://www.jconfperu.com/
+
+  - date: 2026-11-21
+    event: Naija Java User Group
+    lang: en
+    country: ng
+    title: "Architecting Java Apps in the AI Era: Hybrid RAG, Trade-offs, and Guardrails in Practice"
+    format: live
+    url: https://luma.com/tctd029o
+    note: "Monthly session, online on Google Meet, 8:00 to 9:30 PM WAT (UTC+1)."
+
   - date: 2026-11-11
     event: Tamilnadu JUG
     lang: en
