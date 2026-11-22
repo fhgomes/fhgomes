@@ -36,13 +36,13 @@ I speak at conferences, JUGs, lives and podcasts about Java architecture, system
 
 ### Next Events
 
-* <img src="assets/flags/ng.svg" height="11" alt="Nigeria" title="Nigeria"> **Nov 21, 2026 · Naija Java User Group · EN:** [Architecting Java Apps in the AI Era: Hybrid RAG, Trade-offs, and Guardrails in Practice](https://luma.com/tctd029o) (live)
-  <br><sub>Monthly session, online on Google Meet, 8:00 to 9:30 PM WAT (UTC+1).</sub>
 * <img src="assets/flags/pe.svg" height="11" alt="Peru" title="Peru"> **Nov 28, 2026 · JConf Peru 2026 (Lima) · EN:** [Architecting an Application in the AI Era: Hybrid RAG, Trade-offs and Guardrails in Practice](https://www.jconfperu.com/)
 * <img src="assets/flags/pe.svg" height="11" alt="Peru" title="Peru"> **Nov 28, 2026 · JConf Peru 2026 (Lima) · EN:** [Goodbye SOAP and JDK 11: Modernizing a 10-Year-Old System with AI, Fast and Safe](https://www.jconfperu.com/)
 
 ### Talks, Lives & Podcasts
 
+* <img src="assets/flags/ng.svg" height="11" alt="Nigeria" title="Nigeria"> **Nov 21, 2026 · Naija Java User Group · EN:** [Architecting Java Apps in the AI Era: Hybrid RAG, Trade-offs, and Guardrails in Practice](https://luma.com/tctd029o) (live)
+  <br><sub>Monthly session, online on Google Meet, 8:00 to 9:30 PM WAT (UTC+1).</sub>
 * <img src="assets/flags/in.svg" height="11" alt="India" title="India"> **Nov 11, 2026 · Tamilnadu JUG · EN:** [The Cyborg Engineer: Amplified by AI, Becoming a One-Person Software Company](https://www.youtube.com/watch?v=_nj5Rshk_Gg) ([live](https://www.youtube.com/watch?v=_nj5Rshk_Gg)) · [slides](https://apps.fhgomes.com/slides/cyborg-engineer-2027/) · [linkedin](https://www.linkedin.com/events/7524159908724756480/theater/)
 * <img src="assets/flags/global.svg" height="11" alt="Online, international audience" title="Online, international audience"> **Nov 10, 2026 · Out of the Box Developer · EN:** [The Cyborg Engineer: Amplified by AI, Becoming a One-Person Software Company](https://www.youtube.com/watch?v=5it1d75qBhY) ([live](https://www.youtube.com/watch?v=5it1d75qBhY)) · [slides](https://apps.fhgomes.com/slides/cyborg-engineer-2027/)
 * <img src="assets/flags/br.svg" height="11" alt="Brazil" title="Brazil"> **Nov 07, 2026 · DevPR Conf 26 (Maringá) · PT-BR:** [Your Code Isn't Enough: The International Market for Devs in 2026](https://devpr.org/) w/ Camila Rodrigues · [slides](https://apps.fhgomes.com/slides/your-code-isnt-enough-devpr-2026/your-code-isnt-enough-devpr-2026.pdf)
