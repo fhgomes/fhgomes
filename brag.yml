@@ -44,7 +44,8 @@ speaking:
     country: pe
     title: "Architecting an Application in the AI Era: Hybrid RAG, Trade-offs and Guardrails in Practice"
     format: talk
-    url: https://www.jconfperu.com/
+    url: https://www.jconfperu.com/agenda
+    note: "2:00 to 2:55 PM Lima time (UTC-5), room Directorio 2."
 
   - date: 2026-11-28
     event: JConf Peru 2026 (Lima)
@@ -52,7 +53,8 @@ speaking:
     country: pe
     title: "Goodbye SOAP and JDK 11: Modernizing a 10-Year-Old System with AI, Fast and Safe"
     format: talk
-    url: https://www.jconfperu.com/
+    url: https://www.jconfperu.com/agenda
+    note: "12:00 to 12:55 PM Lima time (UTC-5), room Directorio 1."
 
   - date: 2026-11-21
     event: Naija Java User Group
