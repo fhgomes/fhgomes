@@ -36,8 +36,10 @@ I speak at conferences, JUGs, lives and podcasts about Java architecture, system
 
 ### Next Events
 
-* <img src="assets/flags/pe.svg" height="11" alt="Peru" title="Peru"> **Nov 28, 2026 · JConf Peru 2026 (Lima) · EN:** [Architecting an Application in the AI Era: Hybrid RAG, Trade-offs and Guardrails in Practice](https://www.jconfperu.com/)
-* <img src="assets/flags/pe.svg" height="11" alt="Peru" title="Peru"> **Nov 28, 2026 · JConf Peru 2026 (Lima) · EN:** [Goodbye SOAP and JDK 11: Modernizing a 10-Year-Old System with AI, Fast and Safe](https://www.jconfperu.com/)
+* <img src="assets/flags/pe.svg" height="11" alt="Peru" title="Peru"> **Nov 28, 2026 · JConf Peru 2026 (Lima) · EN:** [Architecting an Application in the AI Era: Hybrid RAG, Trade-offs and Guardrails in Practice](https://www.jconfperu.com/agenda)
+  <br><sub>2:00 to 2:55 PM Lima time (UTC-5), room Directorio 2.</sub>
+* <img src="assets/flags/pe.svg" height="11" alt="Peru" title="Peru"> **Nov 28, 2026 · JConf Peru 2026 (Lima) · EN:** [Goodbye SOAP and JDK 11: Modernizing a 10-Year-Old System with AI, Fast and Safe](https://www.jconfperu.com/agenda)
+  <br><sub>12:00 to 12:55 PM Lima time (UTC-5), room Directorio 1.</sub>
 
 ### Talks, Lives & Podcasts
 
