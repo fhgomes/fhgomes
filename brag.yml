@@ -60,7 +60,10 @@ speaking:
     country: ng
     title: "Architecting Java Apps in the AI Era: Hybrid RAG, Trade-offs, and Guardrails in Practice"
     format: live
-    url: https://luma.com/tctd029o
+    url: https://www.youtube.com/watch?v=PgeVrD0b41I
+    extra:
+      - label: event
+        url: https://luma.com/tctd029o
     note: "Monthly session, online on Google Meet, 8:00 to 9:30 PM WAT (UTC+1)."
 
   - date: 2026-11-11
